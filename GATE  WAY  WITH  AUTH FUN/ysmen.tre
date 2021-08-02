@@ -1,0 +1,47 @@
+ÀÄysmen
+   ÃÄMAIN  0/134  Ram=2
+   ³  ÃÄ@cinit1  (Inline)  Ram=0
+   ³  ÃÄinit_from_eeprom  0/230  Ram=2
+   ³  ÃÄinit  0/32  Ram=0
+   ³  ÃÄflash_IR  0/117  Ram=2
+   ³  ³  ÃÄ@delay_ms2  0/21  Ram=1
+   ³  ³  ÃÄ@delay_ms2  0/21  Ram=1
+   ³  ³  ÀÄ@delay_ms2  0/21  Ram=1
+   ³  ÃÄhandle  0/437  Ram=0
+   ³  ³  ÃÄcommands  (Inline)  Ram=2
+   ³  ³  ³  ÃÄflash_IR  0/117  Ram=2
+   ³  ³  ³  ³  ÀÄ*
+   ³  ³  ³  ÃÄflash_IR  0/117  Ram=2
+   ³  ³  ³  ³  ÀÄ*
+   ³  ³  ³  ÃÄinit_from_eeprom  0/230  Ram=2
+   ³  ³  ³  ÃÄtxmit  0/108  Ram=3
+   ³  ³  ³  ³  ÃÄtxmit1  0/81  Ram=1
+   ³  ³  ³  ³  ÃÄtxmit1  0/81  Ram=1
+   ³  ³  ³  ³  ÃÄtxmit0  (Inline)  Ram=1
+   ³  ³  ³  ³  ÃÄstopbit  0/31  Ram=1
+   ³  ³  ³  ³  ³  ÀÄ@delay_us2  (Inline)  Ram=1
+   ³  ³  ³  ³  ÃÄstopbit  0/31  Ram=1
+   ³  ³  ³  ³  ³  ÀÄ*
+   ³  ³  ³  ³  ÃÄstopbit  0/31  Ram=1
+   ³  ³  ³  ³  ³  ÀÄ*
+   ³  ³  ³  ³  ÀÄstopbit  0/31  Ram=1
+   ³  ³  ³  ³     ÀÄ*
+   ³  ³  ³  ÃÄtxmit  0/108  Ram=3
+   ³  ³  ³  ³  ÀÄ*
+   ³  ³  ³  ÀÄtxmit  0/108  Ram=3
+   ³  ³  ³     ÀÄ*
+   ³  ³  ÀÄ@delay_ms2  0/21  Ram=1
+   ³  ÃÄhandle  0/437  Ram=0
+   ³  ³  ÀÄ*
+   ³  ÃÄhandle  0/437  Ram=0
+   ³  ³  ÀÄ*
+   ³  ÃÄhandle  0/437  Ram=0
+   ³  ³  ÀÄ*
+   ³  ÀÄtxmit  0/108  Ram=3
+   ³     ÀÄ*
+   ÃÄEXT_isr  0/27  Ram=0
+   ÃÄTIMER1_isr  0/176  Ram=1
+   ³  ÀÄreadData  (Inline)  Ram=2
+   ³     ÃÄcopyData  0/27  Ram=0
+   ³     ÀÄcopyData  0/27  Ram=0
+   ÀÄRTCC_isr  0/14  Ram=0
